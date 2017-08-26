@@ -263,6 +263,7 @@ API | Description | Auth | HTTPS | Link |
 | IP 2 Country | Map an IP to a country | No | Yes | [Go!](https://ip2country.info) |
 | IP Address Details | Find geolocation with ip address | No | Yes | [Go!](https://ipinfo.io/) |
 | IP Location | Find IP address location information | No | Yes | [Go!](https://ipapi.co/) |
+| IP Sidekick | Geolocation API that returns extra information about an IP address | apiKey | Yes | [Go!](https://ipsidekick.com) |
 | IP Vigilante | Free IP Geolocation API | No | Yes | [Go!](https://www.ipvigilante.com/) |
 | Mapbox | Create/customize beautiful digital maps | `apiKey` | Yes | [Go!](https://www.mapbox.com/developers/) |
 | Mapzen Search | Open Source & Open Data Global Geocoding Service | `apiKey` | Yes | [Go!](https://mapzen.com/products/search/) |
@@ -424,6 +425,7 @@ API | Description | Auth | HTTPS | Link |
 | Minor Planet Center | Asterank.com Information | No | No | [Go!](http://www.asterank.com/mpc) |
 | NASA | NASA data, including imagery | No | Yes | [Go!](https://api.nasa.gov) |
 | Open Notify | ISS astronauts, current location, etc | No | No | [Go!](http://open-notify.org/Open-Notify-API/) |
+| SpaceX | Company, vehicle, launchpad and launch data | No | Yes | [Go!](https://github.com/r-spacex/SpaceX-API) |
 | Sunrise and Sunset | Sunset and sunrise times for a given latitude and longitude | No | Yes | [Go!](https://sunrise-sunset.org/api) |
 | USGS Earthquake Hazards Program | Earthquakes data real-time | No | Yes | [Go!](https://earthquake.usgs.gov/fdsnws/event/1/) |
 | USGS Water Services | Water quality and level info for rivers and lakes | No | Yes | [Go!](https://waterservices.usgs.gov/) |
