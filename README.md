@@ -90,6 +90,7 @@ API | Description | Auth | HTTPS | Link |
 | Cooper Hewitt | Smithsonian Design Museum | `apiKey` | Yes | [Go!](https://collection.cooperhewitt.org/api) |
 | Dribbble | Design | `OAuth` | No | [Go!](http://developer.dribbble.com/v1/) |
 | Harvard Art Museums | Art | `apiKey` | No | [Go!](https://github.com/harvardartmuseums/api-docs) |
+| Iconfinder | Icons | `apiKey` | Yes | [Go!](https://developer.iconfinder.com) |
 | Icons8 | Icons | `OAuth` | Yes | [Go!](http://docs.icons8.apiary.io/#reference/0/meta) |
 | Noun Project | Icons | `OAuth` | No | [Go!](http://api.thenounproject.com/index.html) |
 | Rijksmuseum | Art | `apiKey` | Yes | [Go!](https://www.rijksmuseum.nl/en/api) |
@@ -141,7 +142,8 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | [Go!](https://www.blockchain.info/api) |
-| CoinBin | Human–friendly API for cryptocurrency information | No | Yes | [Go!](https://coinbin.org/) |
+| Coinbase | Bitcoin, Litecoin and Ethereum Prices | No | Yes | [Go!](https://developers.coinbase.com) |
+| CoinBin | Cryptocurrency information | No | Yes | [Go!](https://coinbin.org/) |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | CoinMarketCap | Cryptocurrencies Prices | No | Yes | [Go!](https://coinmarketcap.com/api/) |
 | CryptoCompare | Cryptocurrencies Comparison | No | Yes | [Go!](https://www.cryptocompare.com/api#) |

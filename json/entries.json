@@ -1,5 +1,5 @@
 {
-    "count": 418,
+    "count": 420,
     "entries": [
         {
             "API": "Dogs",
@@ -152,6 +152,14 @@
             "Description": "Art",
             "HTTPS": false,
             "Link": "https://github.com/harvardartmuseums/api-docs"
+        },
+        {
+            "API": "Iconfinder",
+            "Auth": "apiKey",
+            "Category": "Art & Design",
+            "Description": "Icons",
+            "HTTPS": true,
+            "Link": "https://developer.iconfinder.com"
         },
         {
             "API": "Icons8",
@@ -370,10 +378,18 @@
             "Link": "https://www.blockchain.info/api"
         },
         {
+            "API": "Coinbase",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Bitcoin, Litecoin and Ethereum Prices",
+            "HTTPS": true,
+            "Link": "https://developers.coinbase.com"
+        },
+        {
             "API": "CoinBin",
             "Auth": null,
             "Category": "Cryptocurrency",
-            "Description": "Human\u2013friendly API for cryptocurrency information",
+            "Description": "Cryptocurrency information",
             "HTTPS": true,
             "Link": "https://coinbin.org/"
         },
