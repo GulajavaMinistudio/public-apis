@@ -71,7 +71,7 @@ API | Description | Auth | HTTPS | Link |
 ### Anime
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| AniList | AniList Anime | `OAuth` | No | [Go!](http://anilist-api.readthedocs.io/en/latest/) |
+| AniList | Anime discovery & tracking | `OAuth` | Yes | [Go!](https://github.com/AniList/ApiV2-GraphQL-Docs) |
 | Jikan | Unofficial MyAnimeList API | No | Yes | [Go!](https://jikan.me) |
 | Kitsu | Anime discovery platform | `OAuth` | Yes | [Go!](http://docs.kitsu.apiary.io/) |
 | Studio Ghibli | Resources from Studio Ghibli films | No | Yes | [Go!](https://ghibliapi.herokuapp.com) |
@@ -149,7 +149,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | [Go!](https://www.blockchain.info/api) |
-| Coinbase | Bitcoin, Litecoin and Ethereum Prices | No | Yes | [Go!](https://developers.coinbase.com) |
+| Coinbase | Bitcoin, Litecoin and Ethereum Prices | `apiKey` | Yes | [Go!](https://developers.coinbase.com) |
 | CoinBin | Cryptocurrency information | No | Yes | [Go!](https://coinbin.org/) |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | CoinMarketCap | Cryptocurrencies Prices | No | Yes | [Go!](https://coinmarketcap.com/api/) |
@@ -194,6 +194,7 @@ API | Description | Auth | HTTPS | Link |
 | Github | Information for a user's Github profile | No | Yes | [Go!](https://developer.github.com/v3/) |
 | Gitter | Chat for GitHub | `OAuth` | Yes | [Go!](https://github.com/gitterHQ/docs) |
 | HackerRank | Compile source code and run against a set of provided test cases | `apiKey` | Yes | [Go!](https://www.hackerrank.com/api/docs) |
+| HTTP2.Pro | Test endpoints for client and server HTTP/2 protocol support | No | Yes | [Go!](https://http2.pro/doc/api) |
 | import.io | Retrieve structured data from a website or RSS feed | `apiKey` | Yes | [Go!](http://api.docs.import.io/) |
 | IPify | A simple IP Address API | No | Yes | [Go!](https://www.ipify.org/) |
 | IPinfo | Another simple IP Address API | No | Yes | [Go!](https://ipinfo.io/developers) |
@@ -268,6 +269,7 @@ API | Description | Auth | HTTPS | Link |
 | Edamam | Recipe Search | `apiKey` | Yes | [Go!](https://developer.edamam.com/) |
 | Food2Fork | Recipe Search | `apiKey` | No | [Go!](http://food2fork.com/about/api) |
 | LCBO | Alcohol | `apiKey` | Yes | [Go!](https://lcboapi.com/) |
+| Open Food Facts | Food Products Database | No | Yes | [Go!](https://world.openfoodfacts.org/data) |
 | PunkAPI | Brewdog Beer Recipes | No | Yes | [Go!](https://punkapi.com/) |
 | Recipe Puppy | Food | No | No | [Go!](http://www.recipepuppy.com/about/api/) |
 | TacoFancy | Community-driven taco database | No | No | [Go!](https://github.com/evz/tacofancy-api) |
@@ -298,7 +300,7 @@ API | Description | Auth | HTTPS | Link |
 | Clash Royale | Clash Royale Game Information | No | Yes | [Go!](https://github.com/martincarrera/clash-royale-api) |
 | Comic Vine | Comics | No | Yes | [Go!](https://comicvine.gamespot.com/api/documentation) |
 | Deck of Cards | Deck of Cards | No | No | [Go!](http://deckofcardsapi.com/) |
-| Destiny The Game | Bungie Platform API | `apiKey` | Yes | [Go!](https://www.bungie.net/en/Clan/Post/39966/85087279/0/0) |
+| Destiny The Game | Bungie Platform API | `apiKey` | Yes | [Go!](https://github.com/Bungie-net/api) |
 | Dota 2 | Provides information about Player stats , Match stats, Rankings for Dota 2 | No | Yes | [Go!](https://docs.opendota.com/) |
 | Eve Online | Third-Party Developer Documentation | `OAuth` | Yes | [Go!](https://eveonline-third-party-documentation.readthedocs.io/en/latest/) |
 | Games | Minecraft and other server info & user info) | No | Yes | [Go!](https://docs.gameapis.net/) |
@@ -392,6 +394,7 @@ API | Description | Auth | HTTPS | Link |
 | Jooble | Job search engine | `apiKey` | Yes | [Go!](https://us.jooble.org/api/about) |
 | Juju | Job search engine | `apiKey` | No | [Go!](http://www.juju.com/publisher/spec/) |
 | Open Skills | Job titles, skills, and related jobs data | No | No | [Go!](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) |
+| Reed | Job board aggregator | `apiKey` | Yes | [Go!](https://www.reed.co.uk/developers) |
 | Search.gov Jobs | Tap into a list of current jobs openings with the United States government | No | Yes | [Go!](https://search.gov/developer/jobs.html) |
 | The Muse | Job board and company profiles | `apiKey` | Yes | [Go!](https://www.themuse.com/developers/api/v2) |
 | Upwork | Freelance job board and management system | `OAuth` | Yes | [Go!](https://developers.upwork.com/) |
@@ -616,6 +619,7 @@ API | Description | Auth | HTTPS | Link |
 | RandomWord | Generate random word | No | No | [Go!](http://www.setgetgo.com/randomword/) |
 | RoboHash | Generate random robot/alien avatars | No | Yes | [Go!](https://robohash.org/) |
 | UI Names | Generate random fake names | No | Yes | [Go!](https://github.com/thm/uinames) |
+| Yes No | Generate yes or no randomly | No | Yes | [Go!](https://yesno.wtf/api) |
 
 ### Text Analysis
 API | Description | Auth | HTTPS | Link |
@@ -644,7 +648,6 @@ API | Description | Auth | HTTPS | Link |
 | Indian Railways | Indian Railways Information | `apiKey` | No | [Go!](http://api.erail.in/) |
 | Izi | Audio guide for travellers | `apiKey` | Yes | [Go!](http://api-docs.izi.travel/) |
 | Navitia | The open API for building cool stuff with transport data | `apiKey` | Yes | [Go!](https://api.navitia.io/) |
-| Nomad List | A list of the best places to live/work remotely | No | Yes | [Go!](https://nomadlist.com/faq) |
 | REFUGE Restrooms | Provides safe restroom access for transgender, intersex, and gender nonconforming individuals | No | Yes | [Go!](https://www.refugerestrooms.org/api/docs/#!/restrooms) |
 | Schiphol Airport | Schiphol | `apiKey` | Yes | [Go!](https://developer.schiphol.nl/) |
 | TransitLand | Transit Aggregation | No | Yes | [Go!](https://transit.land/documentation/datastore/api-endpoints.html) |
