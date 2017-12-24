@@ -124,6 +124,7 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Church Calendar | Catholic liturgical calendar | No | No | [Go!](http://calapi.inadiutorium.cz/) |
+| Czech and Slovak Namedays Calendar | Lookup for a date and returns nameday | No | Yes | [Go!](https://api.abalin.net/) |
 | Czech Namedays Calendar | Lookup for a name and returns nameday date | No | No | [Go!](http://svatky.adresa.info/) |
 | Google Calendar | Display, create and modify Google calendar events | `OAuth` | Yes | [Go!](https://developers.google.com/google-apps/calendar/) |
 | Hebrew Calendar | Convert between Gregarian and Hebrew, fetch Shabbat and Holiday times, etc | No | No | [Go!](https://www.hebcal.com/home/developer-apis) |
@@ -154,6 +155,7 @@ API | Description | Auth | HTTPS | Link |
 | Block | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Yes | [Go!](https://www.block.io/docs/basic) |
 | Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | [Go!](https://www.blockchain.info/api) |
 | Coinbase | Bitcoin, Litecoin and Ethereum Prices | `apiKey` | Yes | [Go!](https://developers.coinbase.com) |
+| CoinBin | Cryptocurrency information | No | Yes | [Go!](https://coinbin.org/) |
 | CoinDesk | Bitcoin Price Index | No | No | [Go!](http://www.coindesk.com/api/) |
 | CoinMarketCap | Cryptocurrencies Prices | No | Yes | [Go!](https://coinmarketcap.com/api/) |
 | CryptoCompare | Cryptocurrencies Comparison | No | Yes | [Go!](https://www.cryptocompare.com/api#) |
@@ -676,7 +678,6 @@ API | Description | Auth | HTTPS | Link |
 | Transport for Paris, France | RATP Open Data API | No | No | [Go!](http://data.ratp.fr/api/v1/console/datasets/1.0/search/) |
 | Transport for Paris, France | Live schedules made simple | No | No | [Go!](http://restratpws.azurewebsites.net/swagger/) |
 | Transport for Philadelphia, US | SEPTA APIs | No | No | [Go!](http://www3.septa.org/hackathon/) |
-| Transport for Rio de Janeiro, Brazil | Prefeitura do Rio (City Hall) | No | No | [Go!](http://data.rio/group/transporte-e-mobilidade) |
 | Transport for Sao Paulo, Brazil | SPTrans | `OAuth` | No | [Go!](http://www.sptrans.com.br/desenvolvedores/APIOlhoVivo/Documentacao.aspx) |
 | Transport for Sweden | Public Transport consumer | `OAuth` | Yes | [Go!](https://www.trafiklab.se/api) |
 | Transport for Switzerland | Swiss public transport API | No | Yes | [Go!](https://transport.opendata.ch/) |

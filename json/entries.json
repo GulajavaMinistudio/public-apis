@@ -1,5 +1,5 @@
 {
-    "count": 485,
+    "count": 486,
     "entries": [
         {
             "API": "Dogs",
@@ -306,6 +306,14 @@
             "Link": "http://calapi.inadiutorium.cz/"
         },
         {
+            "API": "Czech and Slovak Namedays Calendar",
+            "Auth": null,
+            "Category": "Calendar",
+            "Description": "Lookup for a date and returns nameday",
+            "HTTPS": true,
+            "Link": "https://api.abalin.net/"
+        },
+        {
             "API": "Czech Namedays Calendar",
             "Auth": null,
             "Category": "Calendar",
@@ -448,6 +456,14 @@
             "Description": "Bitcoin, Litecoin and Ethereum Prices",
             "HTTPS": true,
             "Link": "https://developers.coinbase.com"
+        },
+        {
+            "API": "CoinBin",
+            "Auth": null,
+            "Category": "Cryptocurrency",
+            "Description": "Cryptocurrency information",
+            "HTTPS": true,
+            "Link": "https://coinbin.org/"
         },
         {
             "API": "CoinDesk",
@@ -3560,14 +3576,6 @@
             "Description": "SEPTA APIs",
             "HTTPS": false,
             "Link": "http://www3.septa.org/hackathon/"
-        },
-        {
-            "API": "Transport for Rio de Janeiro, Brazil",
-            "Auth": null,
-            "Category": "Transportation",
-            "Description": "Prefeitura do Rio (City Hall)",
-            "HTTPS": false,
-            "Link": "http://data.rio/group/transporte-e-mobilidade"
         },
         {
             "API": "Transport for Sao Paulo, Brazil",
