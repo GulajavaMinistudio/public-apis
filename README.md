@@ -76,7 +76,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | AniList | Anime discovery & tracking | `OAuth` | Yes | Unknown | [Go!](https://github.com/AniList/ApiV2-GraphQL-Docs) |
-| Jikan | Unofficial MyAnimeList API | No | Yes | Unknown | [Go!](https://jikan.me) |
+| Jikan | Unofficial MyAnimeList API | No | Yes | Yes | [Go!](https://jikan.me) |
 | Kitsu | Anime discovery platform | `OAuth` | Yes | Unknown | [Go!](http://docs.kitsu.apiary.io/) |
 | Studio Ghibli | Resources from Studio Ghibli films | No | Yes | Unknown | [Go!](https://ghibliapi.herokuapp.com) |
 
@@ -212,7 +212,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown | [Go!](https://domainsdb.info/apidomainsdb/index.php) |
 | Faceplusplus | A tool to detect face | `OAuth` | Yes | Unknown | [Go!](https://www.faceplusplus.com/) |
 | Genderize.io | Determines a gender from a first name | No | Yes | Unknown | [Go!](https://genderize.io) |
-| Github | Information for a user's Github profile | No | Yes | Unknown | [Go!](https://developer.github.com/v3/) |
+| Github | Make use of GitHub repositories, code and user info programmatically | `OAuth` | Yes | Yes | [Go!](https://developer.github.com/v3/) |
+| Gitlab | Automate GitLab interaction programmatically | `OAuth` | Yes | Unknown | [Go!](https://docs.gitlab.com/ee/api/) |
 | Gitter | Chat for GitHub | `OAuth` | Yes | Unknown | [Go!](https://github.com/gitterHQ/docs) |
 | HTTP2.Pro | Test endpoints for client and server HTTP/2 protocol support | No | Yes | Unknown | [Go!](https://http2.pro/doc/api) |
 | import.io | Retrieve structured data from a website or RSS feed | `apiKey` | Yes | Unknown | [Go!](http://api.docs.import.io/) |
@@ -759,8 +760,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Weather
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
-| Dark Sky | Weather | `apiKey` | Yes | Unknown | [Go!](https://darksky.net/dev/) |
-| MetaWeather | Weather | No | Yes | Unknown | [Go!](https://www.metaweather.com/api/) |
+| Dark Sky | Weather | `apiKey` | Yes | No | [Go!](https://darksky.net/dev/) |
+| MetaWeather | Weather | No | Yes | No | [Go!](https://www.metaweather.com/api/) |
 | ODWeather | Weather and weather webcams | No | No | Unknown | [Go!](http://api.oceandrivers.com/static/docs.html) |
 | OpenUV | Real-time UV Index Forecast | `apiKey` | Yes | Unknown | [Go!](https://www.openuv.io) |
 | OpenWeatherMap | Weather | `apiKey` | No | Unknown | [Go!](http://openweathermap.org/api) |
