@@ -249,7 +249,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | File.io | File Sharing | No | Yes | Unknown | [Go!](https://www.file.io) |
 | Mercury | Web parser | `apiKey` | Yes | Unknown | [Go!](https://mercury.postlight.com/web-parser/) |
-| pdflayer | HTML/URL to PDF | No | Yes | Unknown | [Go!](https://pdflayer.com) |
+| pdflayer | HTML/URL to PDF | `apiKey` | Yes | Unknown | [Go!](https://pdflayer.com) |
 | Pocket | Bookmarking service | `OAuth` | Yes | Unknown | [Go!](https://getpocket.com/developer/) |
 | PrexView | Data from XML or JSON to PDF, HTML or Image | `apiKey` | Yes | Unknown | [Go!](https://prexview.com) |
 | Restpack | Provides screenshot, HTML to PDF, and content extraction APIs | `apiKey` | Yes | Unknown | [Go!](https://restpack.io/) |
@@ -748,6 +748,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | An API of Ice And Fire | Game Of Thrones API | No | Yes | Unknown | [Go!](https://anapioficeandfire.com/) |
 | Czech Television | TV programme of Czech TV | No | No | Unknown | [Go!](http://www.ceskatelevize.cz/xml/tv-program/) |
 | Dailymotion | Dailymotion Developer API | `OAuth` | Yes | Unknown | [Go!](https://developer.dailymotion.com/) |
+| Open Movie Database | Movie information | `apiKey` | Yes | Unknown | [Go!](http://www.omdbapi.com/) |
 | Ron Swanson Quotes | Television | No | Yes | Unknown | [Go!](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) |
 | SWAPI | Star Wars Information | No | Yes | Unknown | [Go!](https://swapi.co) |
 | TMDb | Community-based movie data | `apiKey` | Yes | Unknown | [Go!](https://www.themoviedb.org/documentation/api) |
