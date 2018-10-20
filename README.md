@@ -60,6 +60,7 @@ Please note a passing build status indicates all listed APIs are available since
 ### Animals
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | Unknown |
 | [Cats](https://thecatapi.com/docs.html) | Pictures of cats from Tumblr | No | Yes | Unknown |
 | [Dogs](https://dog.ceo/dog-api/) | Based on the Stanford Dogs Dataset | No | Yes | Yes |
 | [HTTPCat](https://http.cat/) | Cat for every HTTP Status | No | Yes | Unknown |
@@ -244,6 +245,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Plino](https://plino.herokuapp.com/) | Spam filtering system | No | Yes | Unknown |
 | [ProxyCrawl](https://proxycrawl.com) | Scraping and crawling anticaptcha service | `apiKey` | Yes | Unknown |
 | [Public APIs](https://github.com/davemachado/public-api) | A collective list of free JSON APIs for use in web development | No | Yes | Unknown |
+| [Pusher Beams](https://pusher.com/beams) | Push notifications for Android & iOS | `apiKey` | Yes | Unknown |
 | [QR code](http://qrtag.net/api/) | Create an easy to read QR code and URL shortener | No | Yes | Yes |
 | [QR code](http://goqr.me/api/) | Generate and decode / read QR code graphics | No | Yes | Unknown |
 | [ReqRes](https://reqres.in/ ) | A hosted REST-API ready to respond to your AJAX requests | No | Yes | Unknown |
@@ -564,6 +566,7 @@ API | Description | Auth | HTTPS | CORS |
 ### Personality
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Advice Slip](http://api.adviceslip.com/) | Generate random advice slips | No | Yes | Unknown |
 | [chucknorris.io](https://api.chucknorris.io) | JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown |
 | [FavQs.com](https://favqs.com/api) | FavQs allows you to collect, discover and share your favorite quotes | `apiKey` | Yes | Unknown |
 | [Forismatic](http://forismatic.com/en/api/) | Inspirational Quotes | No | No | Unknown |
@@ -733,7 +736,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Transport for Auckland, New Zealand](https://api.at.govt.nz/) | Auckland Transport | No | Yes | Unknown |
 | [Transport for Belgium](https://hello.irail.be/api/) | Belgian transport API | No | Yes | Unknown |
 | [Transport for Berlin, Germany](https://github.com/derhuerst/vbb-rest/blob/master/docs/index.md) | Third-party VBB API | No | Yes | Unknown |
-| [Transport for Boston, US](http://realtime.mbta.com/Portal/Home/Documents) | MBTA API | No | No | Unknown |
+| [Transport for Boston, US](https://mbta.com/developers/v3-api) | MBTA API | No | No | Unknown |
 | [Transport for Budapest, Hungary](https://apiary.io/) | Budapest public transport API | No | Yes | Unknown |
 | [Transport for Chicago, US](http://www.transitchicago.com/developers/) | CTA | No | No | Unknown |
 | [Transport for Czech Republic](https://www.chaps.cz/eng/products/idos-internet) | Czech transport API | No | Yes | Unknown |
