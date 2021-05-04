@@ -117,6 +117,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Icons8](http://docs.icons8.apiary.io/#reference/0/meta) | Icons | `OAuth` | Yes | Unknown |
 | [Metropolitan Museum of Art](https://metmuseum.github.io/) | Met Museum of Art | No | Yes | Unknown |
 | [Noun Project](http://api.thenounproject.com/index.html) | Icons | `OAuth` | No | Unknown |
+| [Pixel Encounter](https://pixelencounter.com/api) | SVG Icon Generator | No | Yes | No |
 | [Rijksmuseum](https://www.rijksmuseum.nl/en/api) | Art | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -147,6 +148,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Yes | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Yes | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Yes | Unknown |
+| [mail.tm](https://docs.mail.tm) | Temporary Email Service | No | Yes | Yes |
 | [MailboxValidator](https://www.mailboxvalidator.com/api-email-free) | Validate email address to improve deliverability | `apiKey` | Yes | Unknown |
 | [mailgun](https://www.mailgun.com/) | Email Service | `apiKey` | Yes | Unknown |
 | [markerapi](http://www.markerapi.com/) | Trademark Search | No | No | Unknown |
@@ -650,6 +652,8 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AI Mastering](https://aimastering.com/api_docs/) | Automated Music Mastering | `apiKey` | Yes | Yes |
+| [Apple Music](https://developer.apple.com/documentation/applemusicapi/) | Official API of the music streaming site Apple Music | `apiKey` | Yes | Unknown |
+| [Audiomack](https://www.audiomack.com/data-api/docs) | Api of the streaming music hub Audiomack | `OAuth` | Yes | Unknown |
 | [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) | Music Events | No | Yes | Unknown |
 | [Deezer](https://developers.deezer.com/api) | Music | `OAuth` | Yes | Unknown |
 | [Discogs](https://www.discogs.com/developers/) | Music | `OAuth` | Yes | Unknown |
@@ -658,6 +662,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Genrenator](https://binaryjazz.us/genrenator-api/) | Music genre generator | No | Yes | Unknown |
 | [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) | Software products | No | Yes | Unknown |
 | [Jamendo](https://developer.jamendo.com/v3.0/docs) | Music | `OAuth` | Yes | Unknown |
+| [JioSaavn](https://github.com/cyberboysumanjay/JioSaavnAPI) | API to retrive song information, album meta data and many more from JioSaavn | No | Yes | Unknown |
 | [KKBOX](https://developer.kkbox.com) | Get music libraries, playlists, charts, and perform out of KKBOX's platform | `OAuth` | Yes | Unknown |
 | [LastFm](https://www.last.fm/api) | Music | `apiKey` | Yes | Unknown |
 | [Lyrics.ovh](http://docs.lyricsovh.apiary.io/) | Simple API to retrieve the lyrics of a song | No | Yes | Unknown |
